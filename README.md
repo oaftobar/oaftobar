@@ -1,5 +1,4 @@
 # Hey, I'm Brennan 👋
-**Updated: 2026.03.20**
 
 I'm a systems engineer turned developer. 
 Ten years of keeping infrastructure alive taught me that the best code is the kind that solves a real problem for a real person — so that's what I build.
@@ -48,3 +47,4 @@ A fully remote backend or full-stack role where I can bring ten years of systems
 *"How you do one thing is how you do everything."*
 
 📫 [LinkedIn](https://www.linkedin.com/in/brennan-w-a85267340) · 🌐 [Resume Site](https://oaftobar.neocities.org)
+**Updated: 2026.03.20**
