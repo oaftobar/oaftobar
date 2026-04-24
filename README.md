@@ -1,6 +1,6 @@
 # Hey, I'm Brennan 👋
 
-I'm a systems engineer turned developer. 
+I'm a systems engineer who never stopped building. 
 Ten years of keeping infrastructure alive taught me that the best code is the kind that solves a real problem for a real person — so that's what I build.
 
 I approach everything like an artist would. Not because I'd call myself one, but because I think how you do one thing is how you do everything.
