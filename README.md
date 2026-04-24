@@ -46,6 +46,6 @@ A fully remote backend or full-stack role where I can bring ten years of systems
 
 *"How you do one thing is how you do everything."*
 
-📫 [LinkedIn](https://www.linkedin.com/in/brennan-w-a85267340) · 🌐 [Resume Site](https://oaftobar.neocities.org)
+📫 [LinkedIn](https://www.linkedin.com/in/brennan-wade) · 🌐 [Resume Site](https://oaftobar.neocities.org)
 
 **Updated: 2026.03.20**
