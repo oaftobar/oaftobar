@@ -32,7 +32,7 @@ stack = {
 
 ## What I'm grinding on
 
-- 🧠 Boot.dev — Backend development, DSA, AI Agents
+- 🧠 Boot.dev — Backend development, Memory Management in C
 - 🏃 6:30am runs — getting back into it
 - 🎸 Guitar — lifelong, non-negotiable
 - 📽️ Film, books, skateboarding, art — in no particular order
