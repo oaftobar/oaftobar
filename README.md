@@ -15,7 +15,8 @@ stack = {
     "backend":   ["Flask", "REST APIs"],
     "frontend":  ["React.js"],
     "infra":     ["Linux", "Docker", "AWS", "Active Directory"],
-    "currently_learning": ["DSA", "AI Agents"],
+    "Recent Gains": ["DSA", "AI Agents"]
+    "currently_learning": ["Memory Management in C", "Security+"],
 }
 ```
 
